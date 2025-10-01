@@ -4,4 +4,4 @@ Created an interactive HR dashboard in Power BI to analyze 1,470 employee record
 The final report has a polished, easy-to-use look across its two main pages, 'Home' and 'Insights,' connected by simple navigation buttons. The 'Home' page features scorecards to highlight top-level numbers like Total Employees, while the 'Insights' page uses visual graphs—including Stacked Charts to show demographic trends (Job Levels, Service Years) and a Donut Chart to visualize employee turnover risk (Distance Status)—ensuring all users get quick, clear answers from the data.
 
 # Accessing the Project
-Download Microsoft's "Power BI Desktop" App on your system. Then go to "Ahnaf Monwar_HR Dashboard.pbix" file of the repository and then click on "Download Raw file" option just beside "Edit this file" option with a pencil symbol.
+Download Microsoft's "Power BI Desktop" App on your system. Then go to "Ahnaf Monwar_HR Dashboard.pbix" file of the repository and then click on "Download Raw file" option just beside "Edit this file" option with a pencil symbol  to download and access the project.
